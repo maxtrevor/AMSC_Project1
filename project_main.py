@@ -11,13 +11,13 @@ import project_prob4 as p4
 t_start = time.time()
 
 # controls: set something to 1 to have it happen, 0 to skip
-doProb1 = 0
-doProb2 = 0
-doProb3 = 0
-doProb4 = 0
+doProb1 = 1
+doProb2 = 1
+doProb3 = 1
+doProb4 = 1
 
-plot2 = 0
-plot3 = 0
+plot2 = 1
+plot3 = 1
 plot4 = 1
 
 if doProb1: p1.prob1()
